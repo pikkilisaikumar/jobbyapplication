@@ -1,0 +1,22 @@
+.headersnavcontainer {
+  background-color: lightpink;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.link-item {
+  text-decoration: none;
+}
+.home-list-item {
+  color: white;
+  padding-left: 7px;
+  cursor: pointer;
+  text-decoration: none;
+  list-style-type: none;
+}
+.homejobcontainer {
+  display: flex;
+  list-style-type: none;
+}

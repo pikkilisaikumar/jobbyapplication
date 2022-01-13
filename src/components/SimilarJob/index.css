@@ -1,0 +1,54 @@
+.list-item-similar-job {
+  width: 250px;
+  margin-top: 20px;
+  min-height: 200px;
+  background-color: lightcoral;
+  padding: 12px;
+}
+.titlecompanyLogoone {
+  height: 50px;
+  width: 50px;
+  margin-right: 13px;
+}
+.title-company-rating-auto-fill {
+  display: flex;
+}
+.star-rating-container {
+  display: flex;
+}
+.locationemploymenttype {
+  display: flex;
+  flex-direction: row;
+}
+.location-container-one {
+  display: flex;
+  margin-right: 20px;
+}
+.titleheading-similar-jobs {
+  font-family: Roboto;
+  color: white;
+  font-size: 15px;
+}
+
+.react-icons {
+  margin-top: 6px;
+}
+.location-emply-paragraph {
+  color: white;
+  padding-left: 10px;
+}
+.fillstar {
+  color: yellow;
+  font-size: 29px;
+  padding-right: 4px;
+}
+
+.job-description-related {
+  color: white;
+  font-family: 'Roboto';
+}
+.descriptionheading {
+  font-size: 20px;
+  color: white;
+  font-family: 'Roboto';
+}

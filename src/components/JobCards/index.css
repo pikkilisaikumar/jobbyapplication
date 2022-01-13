@@ -1,0 +1,69 @@
+.list-item-job {
+  list-style-type: none;
+  background-color: pink;
+  min-height: 200px;
+  padding: 13px;
+  margin: 20px;
+  width: 90%;
+  /* max-width: 500px; */
+}
+.location-emplyparagraph {
+  padding-top: 10px;
+  padding-left: 6px;
+}
+.card-container-one {
+  display: flex;
+}
+.hrline {
+  border-color: white;
+  border-width: 2px;
+}
+.pacakgeanum {
+  padding-top: 10px;
+}
+.golocation-container {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+.fillstarstyling {
+  color: yellow;
+  padding-top: 3px;
+  font-size: 22px;
+}
+.linkjobseachone {
+  color: white;
+  text-decoration: none;
+}
+
+.golocapacakgeemploymenttype {
+  display: flex;
+  justify-content: space-between;
+}
+.title-star-container {
+  margin-left: 13px;
+  text-decoration: none;
+}
+
+.descriptionheading {
+  color: white;
+  font-family: Roboto;
+  font-size: 15px;
+}
+
+.title-heading {
+  color: white;
+  font-family: Roboto;
+  font-size: 18px;
+}
+
+.companyimage {
+  height: 60px;
+  width: 60px;
+}
+.star-container {
+  display: flex;
+}
+.compnayimagetitlerating-container {
+  display: flex;
+}

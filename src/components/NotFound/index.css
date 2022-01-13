@@ -1,0 +1,19 @@
+.notfound-container {
+  min-height: 90vh;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.pagenotfoundheading {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 23px;
+  padding-top: 14px;
+}
+.not-found-paragraph {
+  color: white;
+  font-family: Roboto;
+  font-size: 12px;
+}
